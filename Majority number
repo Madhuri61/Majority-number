@@ -1,0 +1,8 @@
+class Solution
+{
+public static void main(int nums[])
+int a=1;
+for(int i:nums)
+a^=2;
+return a;
+}
